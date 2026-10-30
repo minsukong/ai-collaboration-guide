@@ -25,6 +25,6 @@
 
 - `index.html`은 시작 화면, `01_intro.html`은 밝은 배경의 도입부 6장면, `02_briefing.html`은 어두운 배경의 본문 12장이다.
 - 공통 화면 자산은 `assets/presentation.css`와 `assets/presentation.js`에 둔다. 원본 Markdown의 발표 설명·검토 메모는 발표 화면에 넣지 않는다.
-- 문체는 `../skills/korean-work-writing/SKILL.md`, HTML 디자인은 `../lounge-docs/docs/guides/briefing/html-presentation-design-system/SKILL.md`를 참고한다.
+- 문체는 `skills/korean-work-writing/SKILL.md`, HTML 디자인은 `../lounge-docs/docs/guides/briefing/html-presentation-design-system/SKILL.md`를 참고한다.
 - Markdown을 내용 기준으로 사용하고, 원고 수정 시 해당 HTML도 필요한 범위에서 갱신한다. 파일을 바꾼 것만으로 두 형식이 자동 동기화되지는 않는다.
 - 도입부는 장면 이동, 본문은 섹션 스크롤 방식이다. 전체 화면, 방향키·버튼·장면 선택, 모바일 가로 넘침과 로컬 링크를 변경 범위에 맞게 확인한다.
